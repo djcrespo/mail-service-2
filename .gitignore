@@ -1,0 +1,9 @@
+# Variables de entorno
+.env
+.env.local
+
+# Archivos del IDE
+.idea/
+
+# Cache de python
+__pycache__/
